@@ -7,7 +7,7 @@ responses = [
   "You dummy",
   "Who's this kid?",
   ":thumbsdown:",
-  ":poop:"
+  ":poop:",
   "http://i.giphy.com/hQY7rPlW3Vc3K.gif"
 ]
 
