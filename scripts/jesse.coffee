@@ -15,6 +15,6 @@ module.exports = (robot) ->
 
   robot.hear /.*/i, (msg) ->
       user = msg.message.user.name
-      if user == 'Jesse' and Math.random() < 0.2
+      if user == 'jesse' and Math.random() < 0.2
         msg.send msg.random responses
 
